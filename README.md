@@ -1,15 +1,14 @@
 <h1 align="center">Mobile Robotics</h1>
 
-This repository is a study on mobile robotics at the Universidade Federal de Juiz de Fora using classic algorithms implemented in MATLAB
+This repository is a study on mobile robotics at the Universidade Federal de Juiz de Fora using classic algorithms implemented in MATLAB.
 
 ## Task 1 - Follow Path
 
-This task consists of making a differential robot travel a trajectory with the initial letter of its name.
+This task consists of making a differential robot travel a trajectory with the initial letter of my name.
 
 ![alt-text](https://github.com/matheus-pimentel/mobile-robotics/blob/master/Task%201%20-%20Follow%20Path/follow%20path.gif?raw=true)
 
 ## Task 2 - Twiddle Autotuning PID
-
 
 This task consists of using the Twiddle algorithm to find the best parameters of the PID controller and to minimize the distance from the robot to the line, as well as to minimize variations in the robot's angular speed.
 
