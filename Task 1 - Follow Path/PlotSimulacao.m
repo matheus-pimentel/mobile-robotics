@@ -7,6 +7,7 @@ RoboE = T2D(Rz2D(RodaE , P(3)) , P(1) , P(2)); % incremental
 RoboD = T2D(Rz2D(RodaD , P(3)) , P(1) , P(2)); % incremental
 
 % Plot
+set(gcf, 'color', 'w');
 fill(GoalC(1,:) , GoalC(2,:) , 'y') % Corpo
 hold on;
 fill(GoalE(1,:) , GoalE(2,:) , 'y') % roda esquerda
