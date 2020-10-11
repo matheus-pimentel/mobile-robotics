@@ -25,3 +25,7 @@ This task consists of using the potential fields navigation method to make the r
 This task consists of using the Bayesian Filter to increase the accuracy of a sensor through various measurements for the position of the robot.
 
 ![alt-text](https://github.com/matheus-pimentel/mobile-robotics/blob/master/Task%204%20-%20Bayesian%20Filter/bayesian%20filter.gif?raw=true)
+
+## Application on a Real Robot
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=FvXe6Wab08E "Rinobot (Blue) x RobotBulls (Yellow) - Best Moments for Rinobot - Winter Challenge 2019")
