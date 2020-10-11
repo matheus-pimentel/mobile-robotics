@@ -28,4 +28,4 @@ This task consists of using the Bayesian Filter to increase the accuracy of a se
 
 ## Application on a Real Robot
 
-[![WATCH THE VIDEO]()](https://www.youtube.com/watch?v=FvXe6Wab08E)
+[![WATCH THE VIDEO](https://github.com/matheus-pimentel/mobile-robotics/blob/master/Real%20Application%20img/real%20application.png?raw=true)](https://www.youtube.com/watch?v=FvXe6Wab08E)
