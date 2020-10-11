@@ -18,7 +18,7 @@ This task consists of using the Twiddle algorithm to find the best parameters of
 
 This task consists of using the potential fields navigation method to make the robot avoid obstacles and reach the destination point.
 
-![alt-text](https://github.com/matheus-pimentel/mobile-robotics/blob/master/Task%203%20-%20Avoid%20obstacles%20(Potencial%20Fields)/avoid%20obstacles.gif?raw=true)
+![alt-text](https://github.com/matheus-pimentel/mobile-robotics/blob/master/Task%203%20-%20Avoid%20obstacles%20(Potential%20Fields)/avoid%20obstacles.gif?raw=true)
 
 ## Task 4 - Bayesian Filter
 
